@@ -1,2 +1,2 @@
-Name : Md Shahed Afridi
-ID : KEC3629
+Name: Md Shahed Afridi.
+ID: KEC3629
